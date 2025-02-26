@@ -2,12 +2,12 @@
   "name": "e-comme",
   "private": true,
   "version": "0.0.0",
-  "homepage": " https://Mohamed-Adly-2003.github.io/project-ecommerc",
+  "homepage": " https://Mohamed-Adly-2003.github.io/project_ecommerc",
   "type": "module",
   "scripts": {
     "dev": "vite",
     " predeploy": "npm run build",
-    "deploy": "gh-pages -d dist", 
+    "deploy": "gh-pages -d dist",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
