@@ -2,7 +2,7 @@
   "name": "e-comme",
   "private": true,
   "version": "0.0.0",
-  "homepage": " https://Mohamed-Adly-2003.github.io/project_ecommerc",
+  "homepage":" https://Mohamed-Adly-2003.github.io/ecommerc",
   "type": "module",
   "scripts": {
     "dev": "vite",
